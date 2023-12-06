@@ -1,0 +1,3 @@
+nama : carey
+umur : 26
+pekerjaan : freelance
